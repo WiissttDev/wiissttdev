@@ -21,16 +21,16 @@
 
 ## 📊 GITHUB İSTATİSTİKLERİM
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wiissttdev&show_icons=true&theme=dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wiissttdev&layout=compact&theme=dark)
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=montanatonyy&theme=radical&hide_border=true&background=000000&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=wiissttdev&theme=radical&hide_border=true&background=000000&ring=ff4da6&fire=ff4da6&currStreakLabel=ff4da6" />
 
 ## 📬 İLETİŞİM
 
-[<img align="left" alt="montana scripts | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
-[<img align="left" alt="montana scripts | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
+[<img align="left" alt="wiissttDev | Discord" width="44px" src="https://i.ibb.co/YtNhB1V/icons8-discord-new-logo-48.png" />][discord]
+[<img align="left" alt="wiissttDev | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />][instagram]
 
 <br />
 
